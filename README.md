@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SathishKumar18597
-- 👀 I’m interested in Coding
--🌱 I’m currently learning Java and SQL(Oracel)
-- 💞️ I’m looking to collaborate on Java Projects
+- 👀 I’m interested in Coding and pentesting
+-🌱 I’m current working on java and Javascript based projects
+- 💞️ I’m looking to collaborate Projects on both java and javascript
 - 📫 How to reach me @ sathish18597@gmail.com
 
 <!---
